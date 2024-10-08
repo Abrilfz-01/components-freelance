@@ -10,6 +10,6 @@ Tuve algunas dificultades para encontrar las imagenes utilizadas en algunos Box,
 ## CONTACTO
 Mi información de contacto para quienes tengan preguntas o sugerencias. 
 
-*Nombre y Apellido: Abril Funez
-*Correo electrónico: abril.funez@gmail.com
-*LinkedIn: www.linkedin.com/in/abril-funez-08862524b
+* Nombre y Apellido: Abril Funez
+* Correo electrónico: abril.funez@gmail.com
+* LinkedIn: www.linkedin.com/in/abril-funez-08862524b
