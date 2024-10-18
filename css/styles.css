@@ -142,6 +142,9 @@ body{
 }
 
 .box1 .seccion3 button{
+    font-family: 'Inter Tight', sans-serif;
+    color: white;
+    font-weight: 450;
     width: 340px;
     height: 65px;
     margin-left: 15px;
@@ -151,23 +154,18 @@ body{
     font-size: 20px;
     display: flex;
     justify-content: center;
+    align-items: center;
     cursor: pointer;
     transition: background-color 1s;
 }
 
-.box1 .seccion3 img{
-    width: 25px;
-}
-
-.box1 .seccion3 button p{
-    color: white;
-    margin-top: 18px;
-    margin-left: 5px;
-    font-size: 20px;
-}
-
 .box1 .seccion3 button:hover{
     background-color: #7ebfff;
+}
+
+.box .seccion3 button .fa-bolt{
+    margin-right: 10px;
+    color: white;
 }
 
 
