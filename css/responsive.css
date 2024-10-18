@@ -1,3 +1,147 @@
+/************************/
+/*   RESPONSIVE 768PX   */
+/************************/
+@media (max-width:768px){
+    /*************/
+    /*   BOX 1   */
+    /*************/
+    .box1{
+        width: 320px;
+    }
+
+    .box1 .seccion2 h1{
+        font-size: 18px;
+    }
+
+    .box1 .seccion2 .text{
+        font-size: 14px;
+    }
+
+    .box1 .seccion2 .flex-container .flex-item{
+        font-size: 12px;
+    }
+
+    .box1 .seccion3 h3{
+        font-size: 30px;
+    }
+
+    .box1 .seccion3 button{
+        width: 290px;
+    }
+
+
+    /*************/
+    /*   BOX 2   */
+    /*************/
+    .box2{
+        width: 320px;
+    }
+
+    .box2 h1{
+        font-size: 20px;
+    }
+
+    .box2 p{
+        font-size: 15px;
+        width: 270px;
+    }
+
+    .box2 button{
+        width: 290px;
+    }
+
+
+    /*************/
+    /*   BOX 3   */
+    /*************/
+    .box3{
+        width: 330px;
+    }
+
+    .box3 .seccion2 .cont-title .title-1{
+        font-size: 48px;
+    }
+
+    .box3 .seccion2 .cont-title .title-2{
+        font-size: 48px;
+    }
+
+    .box3 .seccion3 .container-c .cont-1{
+        width: 125px;
+    }
+
+    .box3 .seccion3 .container-c .cont-1 .cont-title .title-1{
+        font-size: 30px;
+    }
+
+    .box3 .seccion3 .container-c .cont-1 .cont-title .title-2{
+        font-size: 18px;
+        margin-top: 13px;
+    }
+
+    .box3 .seccion3 .container-c .cont-2{
+        width: 125px;
+    }
+
+    .box3 .seccion3 .container-c .cont-2 .cont-title .title-1{
+        font-size: 30px;
+    }
+
+    .box3 .seccion3 .container-c .cont-2 .cont-title .title-2{
+        font-size: 18px;
+        margin-top: 13px;
+    }
+
+    .box3 .seccion3 .cont-3{
+        width: 275px;
+    }
+
+    .box3 .seccion3 .cont-3 .cont-titles .title-1{
+        font-size: 30px;
+    }
+
+    .box3 .seccion3 .cont-3 .cont-titles .subtitle{
+        font-size: 14px;
+    }
+
+    .box3 .seccion3 .cont-3 img{
+        width: 120px;
+        height: 70px;
+    }
+
+    .box3 .seccion4 img{
+        height: 53px;
+        width: 290px;
+    }
+
+
+    /*************/
+    /*   BOX 4   */
+    /*************/
+    .box4{
+        width: 330px;
+    }
+}
+
+
+/************************/
+/*   RESPONSIVE 480PX   */
+/************************/
+@media (max-width:480px){
+    .contenedorPadre{
+        grid-template-columns: 1fr;
+        margin-left: 35px;
+    }
+
+    /*************/
+    /*   BOX 2   */
+    /*************/
+    .box2{
+        margin-bottom: 40px;
+    }
+}
+
+
 
 /************************/
 /*   RESPONSIVE 320PX   */
